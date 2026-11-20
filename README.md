@@ -15,7 +15,6 @@
 
 ## Tech Stack:
 
-**Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -36,10 +35,18 @@
 
 ---
 
-## 📊 GitHub stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaheenBegum112&show_icons=true&theme=default&hide_border=true" alt="Maheen's GitHub stats" />
+  <img height="170" alt="Maheen's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MaheenBegum112&theme=dark&title_color=58a6ff&text_color=ffffff&bg_color=0d1117&border_color=30363d&hide_border=false" />
+</p>
+
+<p align="center">
+  <img alt="Maheen's GitHub streak" src="https://streak-stats.demolab.com?user=MaheenBegum112&theme=dark&background=0d1117&border=2ea043&ring=2ea043&fire=388bfd&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=2ea043" />
+</p>
+
+<p align="center">
+  <img height="170" alt="Maheen's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaheenBegum112&layout=compact&theme=dark&title_color=58a6ff&text_color=ffffff&bg_color=0d1117&border_color=30363d&langs_count=6" />
 </p>
 
 ---
