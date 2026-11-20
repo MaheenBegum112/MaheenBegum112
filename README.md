@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Maheen Begum 👋</h1>
 
 <p align="left">
-   Full-Stack Developer | Hackathon Builder | DSA Learner</b><br/>
+   Full-Stack Developer  | DSA Learner</b><br/>
   AIML student turning messy data into tools people actually use.
 </p>
 
